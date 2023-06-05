@@ -15,3 +15,8 @@ It is also important to do some market research into the topic - some questions 
 </ol>
 
 Research will also need to be done into what frameworks and other languages I would need to use for this project. It being cross platform is crucial to reach a wider audience.
+
+
+### Market Research
+
+This [markdown](../docs/marketresearch.md) holds the found market research

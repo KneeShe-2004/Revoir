@@ -17,3 +17,8 @@ Creating an app that would help to elevate these struggles, even by a little bit
 ## Plan
 
 This [markdown](../Revoir/docs/plan.md) contains all the intial planning of the project
+
+The plan links to:
+    <ol>
+        <li> [Market Research](../Revoir/docs/marketresearch.md) </li>
+    </ol>
