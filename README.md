@@ -8,7 +8,7 @@ This README serves as a navigation point to access multiple materials related to
 
 ## Reasoning
 
-An important question is "Why are you building this in the first place?" 
+An important question is "Why are you building this in the first place?"
 
 There are multiple reasons, but mainly the first thing is that I have experienced first hand a friend struggling with their visual impairment and how it affected their quality of life. The loss of sight meant they had to struggle with small tasks that seem mundane to most people, such as requesting bigger texts for everyday things, or not being able to shop without having to squint and bend down to read tiny labels. As well as this, they also experience issues with things such as pin readers, making tasks such as managing their money independtly complex.
 
@@ -21,4 +21,5 @@ This [markdown](../Revoir/docs/plan.md) contains all the intial planning of the 
 The plan links to:
     <ol>
         <li> [Market Research](../Revoir/docs/marketresearch.md) </li>
+        <li> [Feature Research](../Revoir/docs/featureresearch.md)</li>
     </ol>
