@@ -22,4 +22,5 @@ The plan links to:
     <ol>
         <li> [Market Research](/docs/marketresearch.md) </li>
         <li> [Feature Research](docs/featureresearch.md)</li>
+        <li> [Framework Research](docs/frameworkresearch.md)</li>
     </ol>
