@@ -40,4 +40,4 @@ From the feature research, the following features can be identified:
 
 This [markdown](../docs/frameworkresearch.md) holds the found framework research
 
-From the framework research conducted, the framework I have decided to use is Flutter. Flutter allows me to learn a new language, as well as learning a new framework. Although using Cordova would have been comfy, I think it's important for me to step outside of my comfort zone as well. 
+From the framework research conducted, the framework I have decided to use is Flutter. Flutter allows me to learn a new language, as well as learning a new framework. Although using Cordova would have been comfy, I think it's important for me to step outside of my comfort zone as well.
