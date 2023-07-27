@@ -1,6 +1,16 @@
 # Plan
 
-## Intial thoughts
+## Contents
+
+|Contents|
+|--------|
+|[Initial thoughts](#initial-thoughts)|
+|[Market Research](#market-research)|
+|[Feature Research](#feature-research)|
+|[Framework Research](#framework-research)|
+|[Colour theory](#colour-theory)|
+
+## Initial thoughts
 
 The purpose of the app is to create an interface that would allow visually impaired people to feel more at ease when navigating the world by themselves. Before I can even get to creating the app, there are plans and research that need to be done into the field.
 
@@ -41,3 +51,7 @@ From the feature research, the following features can be identified:
 This [markdown](../docs/frameworkresearch.md) holds the found framework research
 
 From the framework research conducted, the framework I have decided to use is Flutter. Flutter allows me to learn a new language, as well as learning a new framework. Although using Cordova would have been comfy, I think it's important for me to step outside of my comfort zone as well.
+
+### Colour theory
+
+This [markdown](../docs/colourtheory.md) holds colour theory analysis

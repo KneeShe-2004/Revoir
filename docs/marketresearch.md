@@ -20,4 +20,3 @@ It might also be advisory to use GPT-4, considering it is powerful AI that's alr
 Seeing AI is an app made by microsoft that does many things. Some things include describing the scene around a person, recognises emotions, identifies currency bills when playing amongst many more things. The app works by switching between channels and is based on narration of the world around the user. This is similar to what my app wants to do, and I might take some inspiration from it.
 
 On the other hand, I also envision the app to not only give audible output, but also to highlight what the thing the camera is looking at and describe it in bigger letters. This is important because it's a key feature that discerns my vision from others.
-
