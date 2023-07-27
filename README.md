@@ -23,4 +23,5 @@ The plan links to:
         <li> [Market Research](/docs/marketresearch.md) </li>
         <li> [Feature Research](docs/featureresearch.md)</li>
         <li> [Framework Research](docs/frameworkresearch.md)</li>
+        <li> [Colour Theory](docs/colourtheory.md)</li>
     </ol>
