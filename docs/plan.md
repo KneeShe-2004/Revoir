@@ -55,3 +55,5 @@ From the framework research conducted, the framework I have decided to use is Fl
 ### Colour theory
 
 This [markdown](../docs/colourtheory.md) holds colour theory analysis
+
+From this analysis, the colours chosen to create the app in are Copper #A8763E and Cosmic Latte #F7F3E3.

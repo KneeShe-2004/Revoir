@@ -21,3 +21,7 @@ Colour theory/ figuring out what colours I should use when designing the app is 
 ### 4
 
 ![image of fourth colour scheme](../assets/colour7.png)
+
+## Analysis
+
+Automatically, 4 is a colour scheme that stands out most. Representing caramel and coffee colours, it's a design and colour that most people can see. They also a very nice contrast for use. 3 is a good colour scheme, however the two colours together seem very bland. Number 1 is something I like to percieve as the darker form of 4. I think the colours can still be used, but they would be used in secondary use to number 4.
